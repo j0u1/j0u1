@@ -1,6 +1,6 @@
 ### Front-end & Web Designer
 
-I create modern, responsive web interfaces focused on UI/UX.
+I create modern, responsive web interfaces with a focus on UI/UX.
 
 Currently working on [**spoverlay**](https://github.com/spoverlay)
 
