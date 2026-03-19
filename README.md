@@ -9,16 +9,16 @@ Currently working on [**spoverlay**](https://github.com/spoverlay)
 - 👨‍💻 Front-end: `HTML`, `CSS`, `JS`, `TS`, `React`, `NextJS`, `Vue`, `Nuxt`, `Astro`, `TailwindCSS`, `Sass`, `Vite`
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,astro" alt="Frontend Stack" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,vite" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend Stack" height="44" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,tailwind,sass,vite" alt="Frontend Stack" height="44" />
   </p>
 
 - 🎨 Design: `Figma`, `Photoshop`, `Illustrator`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,,,,,," alt="Design Stack" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,,," alt="Design Stack" height="44" />
   </p>
   
 - 🚀 Additional: `Python`, `MySQL`, `Docker`, `GitHub`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,mysql,docker,github,,,,," alt="Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,docker,github,," alt="Tools Stack" height="44" />
   </p>
