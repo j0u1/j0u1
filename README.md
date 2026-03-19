@@ -9,7 +9,8 @@ Currently working on [**spoverlay**](https://github.com/spoverlay)
 - 👨‍💻 Front-end: `HTML`, `CSS`, `JS`, `TS`, `React`, `NextJS`, `Vue`, `Nuxt`, `Astro`, `TailwindCSS`, `Sass`, `Vite`
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,astro,tailwind,sass,vite&perline=9" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,astro" alt="Frontend Stack" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,vite,,,,,," alt="Frontend Stack" />
   </p>
 
 - 🎨 Design: `Figma`, `Photoshop`, `Illustrator`
