@@ -10,15 +10,15 @@ Currently working on [**spoverlay**](https://github.com/spoverlay)
 
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,astro" alt="Frontend Stack" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,vite,,,,,," alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,vite" alt="Frontend Stack" />
   </p>
 
 - 🎨 Design: `Figma`, `Photoshop`, `Illustrator`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=9" alt="Design Stack" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,,,,,," alt="Design Stack" />
   </p>
   
 - 🚀 Additional: `Python`, `MySQL`, `Docker`, `GitHub`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,mysql,docker,github&perline=9" alt="Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,docker,github,,,,," alt="Tools Stack" />
   </p>
