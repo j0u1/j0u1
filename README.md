@@ -6,7 +6,7 @@ I create modern, responsive web interfaces with a focus on UI/UX.
 Currently working on [**spoverlay**](https://github.com/spoverlay)
 
 ### Tech Stack
-- 👨‍💻 Front-end: `HTML`, `CSS`, `JS`, `TS`, `React`, `NextJS`, `Vue`, `Nuxt`, `Astro`, `TailwindCSS`, `Sass`, `Vite`, `Angular`
+- 👨‍💻 Front-end: `HTML`, `CSS`, `JS`, `TS`, `React`, `NextJS`, `Vue`, `Nuxt`, `Astro`, `TailwindCSS`, `Sass`, `Vite`
 
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Stack 1" height="44" /><br>
