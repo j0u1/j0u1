@@ -18,7 +18,7 @@ Currently working on [**spoverlay**](https://github.com/spoverlay)
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,,," alt="Design Stack" height="44" />
   </p>
   
-- 🚀 Additional: `Python`, `MySQL`, `GitHub`
+- 🚀 Additional: `Python`, `MySQL`, `Git`
   <p align="left">
     <img src="https://skillicons.dev/icons?i=python,mysql,git,,," alt="Tools Stack" height="44" />
   </p>
