@@ -20,5 +20,5 @@ Currently working on [**spoverlay**](https://github.com/spoverlay)
   
 - 🚀 Additional: `Python`, `MySQL`, `GitHub`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,mysql,github,," alt="Tools Stack" height="44" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,,,," alt="Tools Stack" height="44" />
   </p>
