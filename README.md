@@ -1,4 +1,4 @@
-### Фронтендер и веб дизайнер
+### Фронтендер и веб-дизайнер
 [![wakatime](https://wakatime.com/badge/user/42e0f82b-2688-4a48-85af-5eedd1812f70.svg)](https://wakatime.com/@42e0f82b-2688-4a48-85af-5eedd1812f70)
 
 ### Мои навыки
