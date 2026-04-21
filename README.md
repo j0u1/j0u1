@@ -1,24 +1,19 @@
-### Frontend & Web Designer
+### Фронтендер и веб дизайнер
 [![wakatime](https://wakatime.com/badge/user/42e0f82b-2688-4a48-85af-5eedd1812f70.svg)](https://wakatime.com/@42e0f82b-2688-4a48-85af-5eedd1812f70)
 
-I create modern, responsive web interfaces with a focus on UI/UX.
-
-Currently working on [**spoverlay**](https://github.com/spoverlay)
-
-### Tech Stack
-- 👨‍💻 Front-end: `HTML`, `CSS`, `JS`, `TS`, `React`, `NextJS`, `Vue`, `Nuxt`, `Astro`, `TailwindCSS`, `Sass`, `Vite`
+### Мои навыки
+- 👨‍💻 Фронтенд: `HTML`, `CSS`, `JS`, `TS`, `React`, `NextJS`, `Vue`, `Nuxt`, `Astro`, `TailwindCSS`, `Sass`, `Vite`
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Stack 1" height="44" /><br>
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,tailwind,sass,vite" alt="Stack 2" height="44" /><br>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css,js,ts,react,nextjs,vue,nuxt,astro,tailwind,sass,vite" height="44" />
   </p>
 
-- 🎨 Design: `Figma`, `Photoshop`, `Illustrator`
+- 🎨 Дизайн: `Figma`, `Photoshop`, `Illustrator`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,,," alt="Design Stack" height="44" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=figma,ps,illustrator,,," alt="Design Stack" height="44" />
   </p>
   
-- 🚀 Additional: `Python`, `MySQL`, `Git`
+- 🚀 Дополнительно: `Python`, `MySQL`, `Git`
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,,," alt="Tools Stack" height="44" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,mysql,git,,," alt="Tools Stack" height="44" />
   </p>
