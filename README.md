@@ -1,6 +1,4 @@
 ### Фронтендер и веб-дизайнер
-[![GitHub streak](https://streak-stats.demolab.com?user=j0u1&theme=dark&hide_border=true)](https://github.com/j0u1)
-
 [![wakatime](https://wakatime.com/badge/user/42e0f82b-2688-4a48-85af-5eedd1812f70.svg)](https://wakatime.com/@42e0f82b-2688-4a48-85af-5eedd1812f70)
 
 ### Мои навыки
