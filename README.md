@@ -10,7 +10,7 @@
       <img src="https://skills.syvixor.com/api/icons?perline=15&i=ts,nuxt,vue,tailwind,vite,react,nextjs,astro,sass" height="44" />
     </p>
 
-### Design / 
+### Design / Дизайн
 
 * 🎨 Tools: `Figma`, `Photoshop`, `Illustrator`
 
