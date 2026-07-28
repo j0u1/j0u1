@@ -4,10 +4,10 @@
 
 ### Tech Stack / Стехнический стек
 
-* ⚡ Frontend: `TypeScript`, `Nuxt`, `Vue`, `Tailwind CSS`, `Vite`, `React`, `Next.js`, `Astro`, `SCSS/Sass`
+* ⚡ Frontend: `TypeScript`, `Nuxt`, `Vue`, `Angular`, `Tailwind CSS`, `Vite`, `React`, `Next.js`, `Astro`, `SCSS/Sass`
 
     <p align="left">
-      <img src="https://skills.syvixor.com/api/icons?perline=15&i=ts,nuxt,vue,tailwind,vite,react,nextjs,astro,sass" height="44" />
+      <img src="https://skills.syvixor.com/api/icons?perline=15&i=ts,nuxt,vue,angular,tailwind,vite,react,nextjs,astro,sass" height="44" />
     </p>
 
 ### Design / Дизайн
