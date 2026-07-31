@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/42e0f82b-2688-4a48-85af-5eedd1812f70.svg)](https://wakatime.com/@42e0f82b-2688-4a48-85af-5eedd1812f70)
 
-### Tech Stack / Стехнический стек
+### Tech Stack / Технический стек
 
 * ⚡ Frontend: `TypeScript`, `Nuxt`, `Vue`, `Angular`, `Tailwind CSS`, `Vite`, `React`, `Next.js`, `Astro`, `SCSS/Sass`
 
